@@ -17,14 +17,14 @@ Students one-one U_SPED_STUDENTS
 |slp_informal    |BOOL|
 |spediep_private |BOOL|
 ## Version 1.0.0
-#### Release date: 12/12/2019
+##### Release date: 12/12/2019
 Add Case manager Search  
 Add Related Services Case manager Search  
 Add OM Checkbox  
 Add Case Manager indicater on staff page  
 Add Related Services Case Manager indicator on staff page  
 ## Version 19.12.00 
-#### Release date: 12/27/2019
+##### Release date: 12/27/2019
 Add message key for US_en  
 Add Permissions Mapping  
 Add PowerQueries:
