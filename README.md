@@ -40,16 +40,16 @@ Update pages to use PowerQueries instead of tlist_sql blocks
 >- home.hsd_sped_Custom.content.footer.txt  
 
 ## Version 19.12.01
-#### Release date: 1/7/2020
+##### Release date: 1/7/2020
 Fix page for selecting case managers on Faculty page  
 Add page fragment for SPED page on all Faculty Security Tabs. 
 
 ## Version 19.12.02
-### Release Date: 2/13/2020
+##### Release Date: 2/13/2020
 Adjust ng-app scope to only encompass necessary divs to avoid conflicts with new PowerSchool 19.11 angular.
 
 ## Version 19.12.03
-### Release Date: 2/13/2020
+##### Release Date: 2/13/2020
 Change message key from "Current IEP Date" to "IEP Due Date" per request. 
 
 ## Install and Setup Instructions
